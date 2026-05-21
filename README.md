@@ -1,1 +1,1 @@
-# Dynamic Array Library
+# Dynamic List/ Array Manager
